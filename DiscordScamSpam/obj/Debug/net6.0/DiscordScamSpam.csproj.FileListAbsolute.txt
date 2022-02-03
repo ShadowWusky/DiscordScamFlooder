@@ -1,0 +1,15 @@
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\bin\Debug\net6.0\DiscordScamSpam.exe
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\bin\Debug\net6.0\DiscordScamSpam.deps.json
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\bin\Debug\net6.0\DiscordScamSpam.runtimeconfig.json
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\bin\Debug\net6.0\DiscordScamSpam.dll
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\bin\Debug\net6.0\ref\DiscordScamSpam.dll
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\bin\Debug\net6.0\DiscordScamSpam.pdb
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\DiscordScamSpam.csproj.AssemblyReference.cache
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\DiscordScamSpam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\DiscordScamSpam.AssemblyInfoInputs.cache
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\DiscordScamSpam.AssemblyInfo.cs
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\DiscordScamSpam.csproj.CoreCompileInputs.cache
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\DiscordScamSpam.dll
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\ref\DiscordScamSpam.dll
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\DiscordScamSpam.pdb
+C:\Users\ShadowTheFox\Desktop\AxonTech\AxonTech Bot\DiscordScamSpam\DiscordScamSpam\obj\Debug\net6.0\DiscordScamSpam.genruntimeconfig.cache
